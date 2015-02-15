@@ -10684,6 +10684,10 @@
         {
             "domains": ["zmanda.com"],
             "company_name": "Zmanda"
+        },
+        {
+           "domains": ["zte.com.cn", "any other domains?"],
+           "company_name": "ZTE Corporation"
         }
     ],
     "repos": [
