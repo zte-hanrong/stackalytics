@@ -1,4 +1,4 @@
-{
+﻿{
     "users": [
         {
             "launchpad_id": "0-doug",
@@ -10684,10 +10684,10 @@
         {
             "domains": ["zmanda.com"],
             "company_name": "Zmanda"
-        }
+        },
         {
-            "domains": ["zte.com.cn"],
-            "company_name": "ZTE Corporation"
+           "domains": ["zte.com.cn"],
+           "company_name": "ZTE Corporation"
         }
     ],
     "repos": [
